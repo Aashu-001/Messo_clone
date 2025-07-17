@@ -1,0 +1,40 @@
+39
+68E:\Rohit Negi\Project\Myntra Clone\dist\Myntra Clone.1e54cc3a.js.map133891102998206456 0
+47E:\Rohit Negi\Project\Myntra Clone\package.json133972519866574832 0
+64E:\Rohit Negi\Project\Myntra Clone\dist\Myntra Clone.1e54cc3a.js133891102998128172 0
+52E:\Rohit Negi\Project\Myntra Clone\package-lock.json133972512725133468 0
+98E:\Rohit Negi\Project\Myntra Clone\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts133972522056389710 1
+65E:\Rohit Negi\Project\Myntra Clone\node_modules\@msgpackr-extract133972512724584961 1
+39E:\Rohit Negi\Project\Myntra Clone\dist133891102998206456 1
+53E:\Rohit Negi\Project\Myntra Clone\node_modules\@lmdb133972512724601761 1
+45E:\Rohit Negi\Project\Myntra Clone\styles.css133891101861239273 0
+92E:\Rohit Negi\Project\Myntra Clone\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64133972522054078319 1
+45E:\Rohit Negi\Project\Myntra Clone\index.html133890924647310163 0
+75E:\Rohit Negi\Project\Myntra Clone\node_modules\lightningcss-win32-x64-msvc133972522053486769 1
+47E:\Rohit Negi\Project\Myntra Clone\node_modules133972522056802981 1
+49E:\Rohit Negi\Project\Myntra Clone\src\components133890928688600567 1
+38E:\Rohit Negi\Project\Myntra Clone\src133890919583276606 1
+48E:\Rohit Negi\Project\Myntra Clone\src\myntra.js133891102987156693 0
+83E:\Rohit Negi\Project\Myntra Clone\node_modules\@lmdb\lmdb-win32-x64\node.napi.node133889932615628394 0
+57E:\Rohit Negi\Project\Myntra Clone\src\components\card.js133891076581795181 0
+59E:\Rohit Negi\Project\Myntra Clone\src\components\footer.js133890922374038716 0
+59E:\Rohit Negi\Project\Myntra Clone\src\components\header.js133972520632955101 0
+55E:\Rohit Negi\Project\Myntra Clone\src\components\utils133890928783993786 1
+64E:\Rohit Negi\Project\Myntra Clone\src\components\utils\dummy.js133891076321516937 0
+72E:\Rohit Negi\Project\Myntra Clone\node_modules\@swc\core-win32-x64-msvc133972522054178475 1
+55E:\Rohit Negi\Project\Myntra Clone\node_modules\@parcel133972522056823011 1
+52E:\Rohit Negi\Project\Myntra Clone\node_modules\@swc133972522056782949 1
+108E:\Rohit Negi\Project\Myntra Clone\node_modules\lightningcss-win32-x64-msvc\lightningcss.win32-x64-msvc.node133972509803385914 0
+96E:\Rohit Negi\Project\Myntra Clone\node_modules\@swc\core-win32-x64-msvc\swc.win32-x64-msvc.node133972510028580167 0
+75E:\Rohit Negi\Project\Myntra Clone\node_modules\@parcel\rust-win32-x64-msvc133972522054138413 1
+116E:\Rohit Negi\Project\Myntra Clone\node_modules\@parcel\rust-win32-x64-msvc\parcel-node-bindings.win32-x64-msvc.node133972510026973576 0
+66E:\Rohit Negi\Project\Myntra Clone\node_modules\@parcel\source-map133972522056595716 1
+73E:\Rohit Negi\Project\Myntra Clone\node_modules\@parcel\watcher-win32-x64133972522054178475 1
+86E:\Rohit Negi\Project\Myntra Clone\node_modules\@parcel\watcher-win32-x64\watcher.node133889932615961101 0
+88E:\Rohit Negi\Project\Myntra Clone\node_modules\@parcel\source-map\parcel_sourcemap_node133972522056509880 1
+124E:\Rohit Negi\Project\Myntra Clone\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.win32-x64-msvc.node133889932626036803 0
+107E:\Rohit Negi\Project\Myntra Clone\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\node.napi.node133889932594094223 0
+65E:\Rohit Negi\Project\Myntra Clone\dist\Myntra Clone.1303bb05.css133891102998128172 0
+68E:\Rohit Negi\Project\Myntra Clone\node_modules\@lmdb\lmdb-win32-x64133972522054078319 1
+50E:\Rohit Negi\Project\Myntra Clone\dist\index.html133891102998073776 0
+69E:\Rohit Negi\Project\Myntra Clone\dist\Myntra Clone.1303bb05.css.map133891102998191441 0

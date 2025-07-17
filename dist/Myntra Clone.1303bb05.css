@@ -1,0 +1,64 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.heading {
+  justify-content: space-between;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.image {
+  position: relative;
+  top: 10px;
+  left: 40px;
+}
+
+.option {
+  padding-top: 20px;
+}
+
+.but, .pro {
+  height: 30 px;
+  font-style: bold;
+  background-color: #fff;
+  border: none;
+  margin: 8px;
+}
+
+.search_bar {
+  width: 400px;
+  height: 30px;
+  position: relative;
+  top: 20px;
+}
+
+.profile {
+  padding-top: 20px;
+  padding-right: 20px;
+}
+
+.middle {
+  background-color: #eeecea;
+  justify-content: center;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.card {
+  color: #fff;
+  background-color: #094109;
+}
+
+.sort {
+  color: #f0f8ff;
+  margin-bottom: 10px;
+  background-color: #000;
+  height: 30px;
+  margin-inline: 5px;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+/*# sourceMappingURL=Myntra Clone.1303bb05.css.map */
